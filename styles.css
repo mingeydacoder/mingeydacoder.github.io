@@ -1,11 +1,11 @@
 h1 {
   color: red;
-  text-shadow: 3px 3px pink;
+  text-shadow: 1.5px 1.5px pink;
   font-family: cursive;
 }
 
 h2 {
-  color: blue;
+  color: skyblue;
 }
 
 li.special {
@@ -17,12 +17,52 @@ li.special:hover {
   text-decoration: none;
   color: pink;
   font-weight: bold;
-  list-style-type: circle;
+  list-style-type: disclosure-closed;
+}
+
+span{
+  color: lightgreen;
 }
 
 body {
-  background: #F2EFDE;
-  color: #000;
+  background: black;
+  color: white;
+  font-family: "TsukuAOldMinPr6-R", "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック体", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1 {
+  color: red;
+  text-shadow: 1.5px 1.5px pink;
+  font-family: cursive;
+}
+
+h2 {
+  color: skyblue;
+}
+
+li.special {
+  list-style-type: disclosure-closed;
+  text-decoration: underline dotted red;
+}
+
+li.special:hover {
+  text-decoration: none;
+  color: pink;
+  font-weight: bold;
+  list-style-type: disclosure-closed;
+}
+
+span{
+  color: lightgreen;
+}
+
+body {
+  background: black;
+  color: white;
   font-family: "TsukuAOldMinPr6-R", "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック体", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
