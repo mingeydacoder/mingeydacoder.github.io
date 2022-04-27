@@ -1,1 +1,0 @@
-# mingeydacoder.github.io
