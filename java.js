@@ -3,14 +3,9 @@ function cool() {
 }
 
 function password(pwd) {
-
   if (pwd == "0627") {
-    var str = "Hello world";
-    var URL = "http://www.yiibai.com";
-    alert(str.link(URL));
-  } else
-
-  {
+    document.getElementById("ex2").innerHTML = "JavaScript"
+  } else {
     alert("Denied !");
   }
 }
