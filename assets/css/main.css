@@ -3689,10 +3689,10 @@ input, select, textarea {
 			-webkit-transition: opacity 1.75s ease-in-out;
 			-ms-transition: opacity 1.75s ease-in-out;
 			transition: opacity 1.75s ease-in-out;
-			-moz-transition-delay: 1s;
-			-webkit-transition-delay: 1s;
-			-ms-transition-delay: 1s;
-			transition-delay: 1s;
+			-moz-transition-delay: 0.5s;
+			-webkit-transition-delay: 0.5s;
+			-ms-transition-delay: 0.5s;
+			transition-delay: 0.5s;
 			content: '';
 			background: #2e3842;
 			display: block;
