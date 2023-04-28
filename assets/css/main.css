@@ -3898,8 +3898,17 @@ input, select, textarea {
 				color: rgba(255, 255, 255, 0.5);
 			}
 
+			#footer .icons b {
+				color: rgba(255, 255, 255, 0.5);
+			}
+
 				#footer .icons a:hover {
 					color: #fff;
+				}
+				
+
+				#footer .icons b:hover {
+					color: #2c59d3;
 				}
 
 		#footer .copyright {
