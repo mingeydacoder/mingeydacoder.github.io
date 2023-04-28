@@ -3902,6 +3902,14 @@ input, select, textarea {
 				color: rgba(255, 255, 255, 0.5);
 			}
 
+			#footer .icons c {
+				color: rgba(255, 255, 255, 0.5);
+			}
+
+			#footer .icons aa {
+				color: rgba(255, 255, 255, 0.5);
+			}
+
 				#footer .icons a:hover {
 					color: #fff;
 				}
@@ -3909,6 +3917,14 @@ input, select, textarea {
 
 				#footer .icons b:hover {
 					color: #2c59d3;
+				}
+
+				#footer .icons c:hover {
+					color: #e88a33;
+				}
+
+				#footer .icons aa:hover {
+					color: #3da5ff;
 				}
 
 		#footer .copyright {
